@@ -57,10 +57,6 @@ Customer-Churn-Prediction/
 - Achieved **84% accuracy** using the best-performing model.
 - Customers with month-to-month contracts and high tenure had a higher likelihood of churning.
 
-## 📌 Future Improvements
-- Optimize model performance using hyperparameter tuning.
-- Deploy the model using Streamlit or Flask for real-time predictions.
-- Create an interactive dashboard for better visualization.
 
 
 
